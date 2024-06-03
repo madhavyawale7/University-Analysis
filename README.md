@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [DASHBOARDS](#DASHBOARDS)
+- [DASHBOARDS IMAGE](#DASHBOARDS)
 - [Insight](#Insight)
 - [EDA File](https://github.com/madhavyawale7/University-Analysis/blob/main/EDA%20Of%20University%20Success%20Analysis.xlsx)
 - [Power BI File](https://github.com/madhavyawale7/University-Analysis/blob/main/Power%20BI%20Of%20University%20Success%20Analysis%20Project.pbix)
