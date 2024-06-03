@@ -10,7 +10,7 @@
 - [Insight](#Insight)
 - [EDA File](https://github.com/madhavyawale7/University-Analysis/blob/main/EDA%20Of%20University%20Success%20Analysis.xlsx)
 - [Power BI File](https://github.com/madhavyawale7/University-Analysis/blob/main/Power%20BI%20Of%20University%20Success%20Analysis%20Project.pbix)
-- [MECE Breakdown](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/blob/main/MECE%20Of%20Movie%20Rental%20Analytics.docx)
+- [MECE Breakdown](https://github.com/madhavyawale7/University-Analysis/blob/main/MECE%20Of%20University%20Success%20Analysis.docx)
 - [Word Document](https://github.com/madhavyawale7/DVD-Rental-Store-Analysis/blob/main/Word%20Document%20Of%20Movie%20Rental%20Analytics.docx)
 
 # Introduction:
